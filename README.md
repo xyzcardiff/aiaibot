@@ -1,9 +1,9 @@
 # AIAIBot
 
-Summarizes meeting transcripts automatically
+Auto-generates social media content calendar
 
 ## 🎯 Inspired By
-Trending topic: **AI Meeting Summarizer**
+Trending topic: **AI Content Calendar**
 
 ## 🚀 Features
 - AI-powered core functionality
@@ -11,23 +11,23 @@ Trending topic: **AI Meeting Summarizer**
 - Ready to deploy
 
 ## 🛠 Tech Stack
-- Python
-- Django
-- Whisper API
-- React
+- Node.js
+- Next.js
+- OpenAI API
+- Twitter API
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/cagricoskun/aiaibot.git
+git clone https://github.com/xyzcardiff/aiaibot.git
 cd aiaibot
-pip install -r requirements.txt
+npm install
 ```
 
 ## 🏃 Running
 
 ```bash
-python app.py
+npm start
 ```
 
 ## 📝 License
@@ -35,4 +35,4 @@ MIT
 
 ---
 *Built automatically by AI Trend App Builder*
-*Date: 2026-02-19*
+*Date: 2026-03-20*
