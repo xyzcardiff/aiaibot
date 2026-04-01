@@ -1,5 +1,5 @@
 """
-AIAIBot - Summarizes meeting transcripts automatically
+AIAIBot - Automated code review with AI suggestions
 Built with AI Trend App Builder
 """
 
@@ -13,16 +13,16 @@ app = Flask(____name____)
 def home():
     return jsonify({
         'app': 'AIAIBot',
-        'description': 'Summarizes meeting transcripts automatically',
+        'description': 'Automated code review with AI suggestions',
         'status': 'running',
-        'built_at': '2026-02-19 09:00:03'
+        'built_at': '2026-04-01 09:00:36'
     })
 
 @app.route('/api/trend')
 def get_trend():
     return jsonify({
-        'topic': 'AI Meeting Summarizer',
-        'keywords': ["meeting AI","transcription","summary bot"]
+        'topic': 'AI Code Reviewer',
+        'keywords': ["code review","AI coding","GitHub bot"]
     })
 
 if __name__ == '__main__':
