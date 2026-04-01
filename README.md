@@ -1,9 +1,9 @@
 # AIAIBot
 
-Auto-generates social media content calendar
+Automated code review with AI suggestions
 
 ## 🎯 Inspired By
-Trending topic: **AI Content Calendar**
+Trending topic: **AI Code Reviewer**
 
 ## 🚀 Features
 - AI-powered core functionality
@@ -11,23 +11,23 @@ Trending topic: **AI Content Calendar**
 - Ready to deploy
 
 ## 🛠 Tech Stack
-- Node.js
-- Next.js
+- Python
+- Flask
 - OpenAI API
-- Twitter API
+- GitHub API
 
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/xyzcardiff/aiaibot.git
 cd aiaibot
-npm install
+pip install -r requirements.txt
 ```
 
 ## 🏃 Running
 
 ```bash
-npm start
+python app.py
 ```
 
 ## 📝 License
@@ -35,4 +35,4 @@ MIT
 
 ---
 *Built automatically by AI Trend App Builder*
-*Date: 2026-03-20*
+*Date: 2026-04-01*
